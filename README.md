@@ -2,7 +2,7 @@
 
 Day-ahead electricity demand forecasting for a simulated manufacturing campus, with a business-savings simulation and a live API dashboard. Built with Python and scikit-learn using a realistic simulated dataset (no private utility data needed).
 
-![Forecast](images/06_forecast_7day.png)
+![image alt](https://github.com/guraiml30/AI-Energy-Consumption-Forecasting/blob/a6d95f51733a9b0e4da745946202ce1d87d678e0/Output1.png)
 
 ## Problem statement
 Utilities, factories and data centers must buy or schedule power a day ahead. Under-forecasting forces expensive spot purchases; over-forecasting wastes money. This project forecasts hourly demand and measures what better forecasts are worth.
