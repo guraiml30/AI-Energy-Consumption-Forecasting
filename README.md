@@ -51,14 +51,7 @@ python main.py train        # or run one stage: data, clean, train, evaluate, fo
 
 Business simulation (₹): AI forecasts cut day-ahead procurement cost by 0.75% versus a naive plan, and shifting 10% of forecast-peak load to cheap hours cut the bill by 1.47% and lowered peak demand from 932 to 839 kWh.
 
-## Screenshots
-| | |
-|---|---|
-| ![](images/03_actual_vs_predicted.png) | ![](images/04_model_comparison.png) |
-| ![](images/02_hourly_heatmap.png) | ![](images/05_feature_importance.png) |
-| ![](images/08_simulation_savings.png) | ![](images/07_residuals.png) |
 
-Add a screenshot of the dashboard as `images/dashboard.png` and link it here.
 
 ## API
 `GET /` dashboard, `/api/summary`, `/api/forecast?hours=48`, `/api/history`, `/api/backtest`, `/api/predict?datetime=2025-01-03T18:00`, `/api/feature-importance`, `/api/health`
